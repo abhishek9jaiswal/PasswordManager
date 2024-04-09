@@ -16,7 +16,7 @@ This Password Manager is a simple GUI application built using Python and Tkinter
 ---
 
 ## Dependencies:
-1. Python 3.x
+1. Python 3.12.2
 2. Tkinter (standard Python library for GUI)
 3. cryptography library (install using `pip install cryptography`)
 
@@ -46,11 +46,11 @@ This Password Manager is for educational purposes and may not provide the same l
 ---
 
 ## Credits:
-- Developed by [Your Name]
+- Developed by Asmit Bhatt
 - Created using Python, Tkinter, and the cryptography library.
 
 ---
 
-Feel free to customize and enhance the Password Manager according to your needs. For any questions or feedback, contact [Your Email/Contact Info].
+Feel free to customize and enhance the Password Manager according to your needs. For any questions or feedback, contact bhattasmit25@gmail.com
 
 ---
